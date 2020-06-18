@@ -11,4 +11,3 @@ class Artist
 end
 
 
-Beyonce = Artist.new("Beyonce")
